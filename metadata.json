@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Master Offline",
+  "description": "A complete, polished, responsive offline Ludo board game featuring 2-4 players, smart AI difficulties, pass-and-play, authentic classic rules, and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
